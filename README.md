@@ -15,3 +15,7 @@ clang main.c -o main.exe -std=c90
 clang admin.c -o admin.exe -std=c90
 ```
 - build `admin.c` file to change the admin password.
+
+## Screenshots
+![Dashboard](img/dashboard.png)
+![Login](img/login.png)
