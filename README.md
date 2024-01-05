@@ -8,7 +8,7 @@ Also, this project may only work with windows because of `system("cls")`, and I 
 - add, delete, and modify records (by the admin)
 - a message board for users
 
-## Usage
+## Build
 - build with C90 or lower
 ```
 clang main.c -o main.exe -std=c90
