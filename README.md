@@ -4,7 +4,7 @@ This was my first major C project. It's kind of a stupid project. You can "regis
 Also, this project may only work with windows because of `system("cls")`, and I didn't bother to change this one either.
 
 ## Other features
-- a "notice board" for admins
+- a "notice board" for admins to post notice
 - add, delete, and modify records (by the admin)
 - a message board for users
 
