@@ -18,7 +18,7 @@ clang admin.c -o admin.exe -std=c90
 
 ## Screenshots
 The starting screen\
-![Dashboard](img/dashboard.png)\
+![Dashboard](img/dashboard.png)
 
 The login screen\
 ![Login](img/login.png)
